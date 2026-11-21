@@ -1,0 +1,14 @@
+YHQ ACADEMY V24 — GITHUB/RENDER
+
+BU BITTA ZIP ARXIV. ZIPNI GITHUBGA BITTA FAYL QILIB YUKLASH RENDER SERVERNI ISHGA TUSHIRMAYDI.
+
+1. ZIPni telefoningizda arxivdan chiqaring.
+2. GitHub repozitoriyda github.dev muharririni ochish uchun github.com o‘rniga github.dev yozing.
+3. Arxivdan chiqarilgan loyiha fayllari va static papkasini muharrirga joylang. GitHub mobil brauzerida papka yuklash qo‘llab-quvvatlanmasa, kompyuterdan foydalaning.
+4. Commit va Push qiling.
+5. Render > New > Blueprint > GitHub repozitoriy > Deploy.
+6. ADMIN_PASSWORD maxfiy o‘zgaruvchisini kiriting. Persistent disk pulli bo‘lishi mumkin.
+
+GitHub ildizida app.py, Dockerfile, render.yaml, requirements.txt va static/ ko‘rinishi shart.
+
+OGOHLANTIRISH: bu mavjud V24 server kodi asosidagi paket; ishlab chiqarishdagi Render deploy va o‘qituvchi/o‘quvchi to‘liq sinxronligi bu yerda end-to-end sinovdan o‘tkazilmagan.
